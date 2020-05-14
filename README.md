@@ -1,5 +1,5 @@
 # Banking System
-A skeleton  secure  banking  system  (SBS) with  limited  functional, performance, and security requirements for secure banking transactions and user account management.
+A skeleton  secure  banking  system  (SBS) with  limited  functional, performance, and security requirements for secure banking transactions and user account management. This project was part of the course: CSE 545: Software Security during my Masters degree at ASU.
 
 ## Steps to run this application:
 - Install python: if you are using mac and have brew installed, run: `brew install python`

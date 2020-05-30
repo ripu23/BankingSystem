@@ -5,6 +5,8 @@ A skeleton  secure  banking  system  (SBS) with  limited  functional, performanc
 - Team size: 8
 - Major contributors: 4
 
+## Technologies used
+`python`, `django`, `EC2`, `MySQL`, `AWS SNS`.
 
 ## Steps to run this application:
 - Install python: if you are using mac and have brew installed, run: `brew install python`
